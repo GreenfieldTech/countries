@@ -13,7 +13,7 @@ raise SystemExit.new "Error loading mledoze country list" unless mcresp.is_a? Ne
 x = JSON[mcresp.body].collect do |c|
 	c.delete('translations')
 	c.merge(
-		'flag' => "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/#{c['cca3'].downcase}.svg"
+		'flag' => "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/#{c['cca3'].downcase}.svg"
 	)
 end.to_a.to_json
 

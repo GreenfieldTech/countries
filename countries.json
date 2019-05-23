@@ -55,7 +55,7 @@
     "landlocked": false,
     "borders": [],
     "area": 180,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/abw.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/abw.svg"
   },
   {
     "name": {
@@ -126,7 +126,7 @@
       "CHN"
     ],
     "area": 652230,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/afg.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/afg.svg"
   },
   {
     "name": {
@@ -186,7 +186,7 @@
       "NAM"
     ],
     "area": 1246700,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/ago.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/ago.svg"
   },
   {
     "name": {
@@ -239,7 +239,7 @@
     "landlocked": false,
     "borders": [],
     "area": 91,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/aia.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/aia.svg"
   },
   {
     "name": {
@@ -295,7 +295,7 @@
     "landlocked": false,
     "borders": [],
     "area": 1580,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/ala.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/ala.svg"
   },
   {
     "name": {
@@ -356,7 +356,7 @@
       "UNK"
     ],
     "area": 28748,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/alb.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/alb.svg"
   },
   {
     "name": {
@@ -414,7 +414,7 @@
       "ESP"
     ],
     "area": 468,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/and.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/and.svg"
   },
   {
     "name": {
@@ -473,7 +473,7 @@
       "SAU"
     ],
     "area": 83600,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/are.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/are.svg"
   },
   {
     "name": {
@@ -539,7 +539,7 @@
       "URY"
     ],
     "area": 2780400,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/arg.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/arg.svg"
   },
   {
     "name": {
@@ -600,7 +600,7 @@
       "TUR"
     ],
     "area": 29743,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/arm.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/arm.svg"
   },
   {
     "name": {
@@ -661,7 +661,7 @@
     "landlocked": false,
     "borders": [],
     "area": 199,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/asm.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/asm.svg"
   },
   {
     "name": {
@@ -700,7 +700,7 @@
     "landlocked": false,
     "borders": [],
     "area": 14000000,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/ata.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/ata.svg"
   },
   {
     "name": {
@@ -754,7 +754,7 @@
     "landlocked": false,
     "borders": [],
     "area": 7747,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/atf.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/atf.svg"
   },
   {
     "name": {
@@ -807,7 +807,7 @@
     "landlocked": false,
     "borders": [],
     "area": 442,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/atg.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/atg.svg"
   },
   {
     "name": {
@@ -860,7 +860,7 @@
     "landlocked": false,
     "borders": [],
     "area": 7692024,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/aus.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/aus.svg"
   },
   {
     "name": {
@@ -924,7 +924,7 @@
       "CHE"
     ],
     "area": 83871,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/aut.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/aut.svg"
   },
   {
     "name": {
@@ -990,7 +990,7 @@
       "TUR"
     ],
     "area": 86600,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/aze.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/aze.svg"
   },
   {
     "name": {
@@ -1055,7 +1055,7 @@
       "TZA"
     ],
     "area": 27834,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/bdi.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/bdi.svg"
   },
   {
     "name": {
@@ -1131,7 +1131,7 @@
       "NLD"
     ],
     "area": 30528,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/bel.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/bel.svg"
   },
   {
     "name": {
@@ -1191,7 +1191,7 @@
       "TGO"
     ],
     "area": 112622,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/ben.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/ben.svg"
   },
   {
     "name": {
@@ -1251,7 +1251,7 @@
       "TGO"
     ],
     "area": 272967,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/bfa.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/bfa.svg"
   },
   {
     "name": {
@@ -1309,7 +1309,7 @@
       "IND"
     ],
     "area": 147570,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/bgd.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/bgd.svg"
   },
   {
     "name": {
@@ -1370,7 +1370,7 @@
       "TUR"
     ],
     "area": 110879,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/bgr.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/bgr.svg"
   },
   {
     "name": {
@@ -1425,7 +1425,7 @@
     "landlocked": false,
     "borders": [],
     "area": 765,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/bhr.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/bhr.svg"
   },
   {
     "name": {
@@ -1483,7 +1483,7 @@
     "landlocked": false,
     "borders": [],
     "area": 13943,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/bhs.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/bhs.svg"
   },
   {
     "name": {
@@ -1552,7 +1552,7 @@
       "SRB"
     ],
     "area": 51209,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/bih.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/bih.svg"
   },
   {
     "name": {
@@ -1608,7 +1608,7 @@
     "landlocked": false,
     "borders": [],
     "area": 21,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/blm.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/blm.svg"
   },
   {
     "name": {
@@ -1667,7 +1667,7 @@
     "landlocked": false,
     "borders": [],
     "area": 394,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/shn.svg"
+    "flag": "https://cdn.githubusercontent.com/mledoze/countries/db61f75e/data/shn.svg"
   },
   {
     "name": {
@@ -1726,7 +1726,7 @@
     "landlocked": false,
     "borders": [],
     "area": 394,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/shn.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/shn.svg"
   },
   {
     "name": {
@@ -1794,7 +1794,7 @@
       "UKR"
     ],
     "area": 207600,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/blr.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/blr.svg"
   },
   {
     "name": {
@@ -1860,7 +1860,7 @@
       "MEX"
     ],
     "area": 22966,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/blz.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/blz.svg"
   },
   {
     "name": {
@@ -1916,7 +1916,7 @@
     "landlocked": false,
     "borders": [],
     "area": 54,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/bmu.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/bmu.svg"
   },
   {
     "name": {
@@ -1998,7 +1998,7 @@
       "PER"
     ],
     "area": 1098581,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/bol.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/bol.svg"
   },
   {
     "name": {
@@ -2056,7 +2056,7 @@
     "landlocked": false,
     "borders": [],
     "area": 328,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/bes.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/bes.svg"
   },
   {
     "name": {
@@ -2123,7 +2123,7 @@
       "VEN"
     ],
     "area": 8515767,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/bra.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/bra.svg"
   },
   {
     "name": {
@@ -2176,7 +2176,7 @@
     "landlocked": false,
     "borders": [],
     "area": 430,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/brb.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/brb.svg"
   },
   {
     "name": {
@@ -2238,7 +2238,7 @@
       "MYS"
     ],
     "area": 5765,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/brn.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/brn.svg"
   },
   {
     "name": {
@@ -2299,7 +2299,7 @@
       "IND"
     ],
     "area": 38394,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/btn.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/btn.svg"
   },
   {
     "name": {
@@ -2349,7 +2349,7 @@
     "landlocked": false,
     "borders": [],
     "area": 49,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/bvt.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/bvt.svg"
   },
   {
     "name": {
@@ -2414,7 +2414,7 @@
       "ZWE"
     ],
     "area": 582000,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/bwa.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/bwa.svg"
   },
   {
     "name": {
@@ -2481,7 +2481,7 @@
       "SDN"
     ],
     "area": 622984,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/caf.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/caf.svg"
   },
   {
     "name": {
@@ -2541,7 +2541,7 @@
       "USA"
     ],
     "area": 9984670,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/can.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/can.svg"
   },
   {
     "name": {
@@ -2596,7 +2596,7 @@
     "landlocked": false,
     "borders": [],
     "area": 14,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/cck.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/cck.svg"
   },
   {
     "name": {
@@ -2675,7 +2675,7 @@
       "DEU"
     ],
     "area": 41284,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/che.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/che.svg"
   },
   {
     "name": {
@@ -2734,7 +2734,7 @@
       "PER"
     ],
     "area": 756102,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/chl.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/chl.svg"
   },
   {
     "name": {
@@ -2814,7 +2814,7 @@
       "VNM"
     ],
     "area": 9706961,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/chn.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/chn.svg"
   },
   {
     "name": {
@@ -2877,7 +2877,7 @@
       "MLI"
     ],
     "area": 322463,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/civ.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/civ.svg"
   },
   {
     "name": {
@@ -2944,7 +2944,7 @@
       "NGA"
     ],
     "area": 475442,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/cmr.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/cmr.svg"
   },
   {
     "name": {
@@ -3031,7 +3031,7 @@
       "ZMB"
     ],
     "area": 2344858,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/cod.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/cod.svg"
   },
   {
     "name": {
@@ -3102,7 +3102,7 @@
       "GAB"
     ],
     "area": 342000,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/cog.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/cog.svg"
   },
   {
     "name": {
@@ -3165,7 +3165,7 @@
     "landlocked": false,
     "borders": [],
     "area": 236,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/cok.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/cok.svg"
   },
   {
     "name": {
@@ -3226,7 +3226,7 @@
       "VEN"
     ],
     "area": 1141748,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/col.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/col.svg"
   },
   {
     "name": {
@@ -3293,7 +3293,7 @@
     "landlocked": false,
     "borders": [],
     "area": 1862,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/com.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/com.svg"
   },
   {
     "name": {
@@ -3348,7 +3348,7 @@
     "landlocked": false,
     "borders": [],
     "area": 4033,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/cpv.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/cpv.svg"
   },
   {
     "name": {
@@ -3406,7 +3406,7 @@
       "PAN"
     ],
     "area": 51100,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/cri.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/cri.svg"
   },
   {
     "name": {
@@ -3465,7 +3465,7 @@
     "landlocked": false,
     "borders": [],
     "area": 109884,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/cub.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/cub.svg"
   },
   {
     "name": {
@@ -3533,7 +3533,7 @@
     "landlocked": false,
     "borders": [],
     "area": 444,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/cuw.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/cuw.svg"
   },
   {
     "name": {
@@ -3587,7 +3587,7 @@
     "landlocked": false,
     "borders": [],
     "area": 135,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/cxr.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/cxr.svg"
   },
   {
     "name": {
@@ -3640,7 +3640,7 @@
     "landlocked": false,
     "borders": [],
     "area": 264,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/cym.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/cym.svg"
   },
   {
     "name": {
@@ -3703,7 +3703,7 @@
     "landlocked": false,
     "borders": [],
     "area": 9251,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/cyp.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/cyp.svg"
   },
   {
     "name": {
@@ -3768,7 +3768,7 @@
       "SVK"
     ],
     "area": 78865,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/cze.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/cze.svg"
   },
   {
     "name": {
@@ -3833,7 +3833,7 @@
       "CHE"
     ],
     "area": 357114,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/deu.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/deu.svg"
   },
   {
     "name": {
@@ -3901,7 +3901,7 @@
       "SOM"
     ],
     "area": 23200,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/dji.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/dji.svg"
   },
   {
     "name": {
@@ -3957,7 +3957,7 @@
     "landlocked": false,
     "borders": [],
     "area": 751,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/dma.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/dma.svg"
   },
   {
     "name": {
@@ -4015,7 +4015,7 @@
       "DEU"
     ],
     "area": 43094,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/dnk.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/dnk.svg"
   },
   {
     "name": {
@@ -4072,7 +4072,7 @@
       "HTI"
     ],
     "area": 48671,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/dom.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/dom.svg"
   },
   {
     "name": {
@@ -4136,7 +4136,7 @@
       "MAR"
     ],
     "area": 2381741,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/dza.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/dza.svg"
   },
   {
     "name": {
@@ -4194,7 +4194,7 @@
       "PER"
     ],
     "area": 276841,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/ecu.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/ecu.svg"
   },
   {
     "name": {
@@ -4254,7 +4254,7 @@
       "SDN"
     ],
     "area": 1002450,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/egy.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/egy.svg"
   },
   {
     "name": {
@@ -4326,7 +4326,7 @@
       "SDN"
     ],
     "area": 117600,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/eri.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/eri.svg"
   },
   {
     "name": {
@@ -4373,7 +4373,8 @@
     "idd": {
       "root": "+2",
       "suffixes": [
-        "12"
+        "125288",
+        "125289"
       ]
     },
     "capital": [
@@ -4402,7 +4403,7 @@
       "MAR"
     ],
     "area": 266000,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/esh.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/esh.svg"
   },
   {
     "name": {
@@ -4463,7 +4464,7 @@
       "MAR"
     ],
     "area": 505992,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/esp.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/esp.svg"
   },
   {
     "name": {
@@ -4522,7 +4523,7 @@
       "RUS"
     ],
     "area": 45227,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/est.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/est.svg"
   },
   {
     "name": {
@@ -4585,7 +4586,7 @@
       "SDN"
     ],
     "area": 1104300,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/eth.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/eth.svg"
   },
   {
     "name": {
@@ -4651,7 +4652,7 @@
       "RUS"
     ],
     "area": 338424,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/fin.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/fin.svg"
   },
   {
     "name": {
@@ -4718,7 +4719,7 @@
     "landlocked": false,
     "borders": [],
     "area": 18272,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/fji.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/fji.svg"
   },
   {
     "name": {
@@ -4773,7 +4774,7 @@
     "landlocked": false,
     "borders": [],
     "area": 12173,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/flk.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/flk.svg"
   },
   {
     "name": {
@@ -4837,7 +4838,7 @@
       "CHE"
     ],
     "area": 551695,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/fra.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/fra.svg"
   },
   {
     "name": {
@@ -4901,7 +4902,7 @@
     "landlocked": false,
     "borders": [],
     "area": 1393,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/fro.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/fro.svg"
   },
   {
     "name": {
@@ -4951,7 +4952,7 @@
     "landlocked": false,
     "borders": [],
     "area": 702,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/fsm.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/fsm.svg"
   },
   {
     "name": {
@@ -5010,7 +5011,7 @@
       "GNQ"
     ],
     "area": 267668,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/gab.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/gab.svg"
   },
   {
     "name": {
@@ -5067,7 +5068,7 @@
       "IRL"
     ],
     "area": 242900,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/gbr.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/gbr.svg"
   },
   {
     "name": {
@@ -5126,7 +5127,7 @@
       "TUR"
     ],
     "area": 69700,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/geo.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/geo.svg"
   },
   {
     "name": {
@@ -5195,7 +5196,7 @@
     "landlocked": false,
     "borders": [],
     "area": 78,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/ggy.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/ggy.svg"
   },
   {
     "name": {
@@ -5252,7 +5253,7 @@
       "TGO"
     ],
     "area": 238533,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/gha.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/gha.svg"
   },
   {
     "name": {
@@ -5307,7 +5308,7 @@
       "ESP"
     ],
     "area": 6,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/gib.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/gib.svg"
   },
   {
     "name": {
@@ -5369,7 +5370,7 @@
       "SLE"
     ],
     "area": 245857,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/gin.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/gin.svg"
   },
   {
     "name": {
@@ -5423,7 +5424,7 @@
     "landlocked": false,
     "borders": [],
     "area": 1628,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/glp.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/glp.svg"
   },
   {
     "name": {
@@ -5479,7 +5480,7 @@
       "SEN"
     ],
     "area": 10689,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/gmb.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/gmb.svg"
   },
   {
     "name": {
@@ -5542,7 +5543,7 @@
       "SEN"
     ],
     "area": 36125,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/gnb.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/gnb.svg"
   },
   {
     "name": {
@@ -5612,7 +5613,7 @@
       "GAB"
     ],
     "area": 28051,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/gnq.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/gnq.svg"
   },
   {
     "name": {
@@ -5673,7 +5674,7 @@
       "MKD"
     ],
     "area": 131990,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/grc.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/grc.svg"
   },
   {
     "name": {
@@ -5726,7 +5727,7 @@
     "landlocked": false,
     "borders": [],
     "area": 344,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/grd.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/grd.svg"
   },
   {
     "name": {
@@ -5780,7 +5781,7 @@
     "landlocked": false,
     "borders": [],
     "area": 2166086,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/grl.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/grl.svg"
   },
   {
     "name": {
@@ -5838,7 +5839,7 @@
       "MEX"
     ],
     "area": 108889,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/gtm.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/gtm.svg"
   },
   {
     "name": {
@@ -5896,7 +5897,7 @@
       "SUR"
     ],
     "area": 83534,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/guf.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/guf.svg"
   },
   {
     "name": {
@@ -5960,7 +5961,7 @@
     "landlocked": false,
     "borders": [],
     "area": 549,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/gum.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/gum.svg"
   },
   {
     "name": {
@@ -6018,7 +6019,7 @@
       "VEN"
     ],
     "area": 214969,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/guy.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/guy.svg"
   },
   {
     "name": {
@@ -6079,7 +6080,7 @@
       "CHN"
     ],
     "area": 1104,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/hkg.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/hkg.svg"
   },
   {
     "name": {
@@ -6129,7 +6130,7 @@
     "landlocked": false,
     "borders": [],
     "area": 412,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/hmd.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/hmd.svg"
   },
   {
     "name": {
@@ -6188,7 +6189,7 @@
       "NIC"
     ],
     "area": 112492,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/hnd.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/hnd.svg"
   },
   {
     "name": {
@@ -6250,7 +6251,7 @@
       "SVN"
     ],
     "area": 56594,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/hrv.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/hrv.svg"
   },
   {
     "name": {
@@ -6313,7 +6314,7 @@
       "DOM"
     ],
     "area": 27750,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/hti.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/hti.svg"
   },
   {
     "name": {
@@ -6374,7 +6375,7 @@
       "UKR"
     ],
     "area": 93028,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/hun.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/hun.svg"
   },
   {
     "name": {
@@ -6433,7 +6434,7 @@
       "PNG"
     ],
     "area": 1904569,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/idn.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/idn.svg"
   },
   {
     "name": {
@@ -6498,7 +6499,7 @@
     "landlocked": false,
     "borders": [],
     "area": 572,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/imn.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/imn.svg"
   },
   {
     "name": {
@@ -6572,7 +6573,7 @@
       "PAK"
     ],
     "area": 3287590,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/ind.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/ind.svg"
   },
   {
     "name": {
@@ -6625,7 +6626,7 @@
     "landlocked": false,
     "borders": [],
     "area": 60,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/iot.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/iot.svg"
   },
   {
     "name": {
@@ -6688,7 +6689,7 @@
       "GBR"
     ],
     "area": 70273,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/irl.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/irl.svg"
   },
   {
     "name": {
@@ -6753,7 +6754,7 @@
       "TKM"
     ],
     "area": 1648195,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/irn.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/irn.svg"
   },
   {
     "name": {
@@ -6825,7 +6826,7 @@
       "TUR"
     ],
     "area": 438317,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/irq.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/irq.svg"
   },
   {
     "name": {
@@ -6881,7 +6882,7 @@
     "landlocked": false,
     "borders": [],
     "area": 103000,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/isl.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/isl.svg"
   },
   {
     "name": {
@@ -6947,7 +6948,7 @@
       "SYR"
     ],
     "area": 20770,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/isr.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/isr.svg"
   },
   {
     "name": {
@@ -7009,7 +7010,7 @@
       "VAT"
     ],
     "area": 301336,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/ita.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/ita.svg"
   },
   {
     "name": {
@@ -7067,7 +7068,7 @@
     "landlocked": false,
     "borders": [],
     "area": 10991,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/jam.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/jam.svg"
   },
   {
     "name": {
@@ -7137,7 +7138,7 @@
     "landlocked": false,
     "borders": [],
     "area": 116,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/jey.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/jey.svg"
   },
   {
     "name": {
@@ -7199,7 +7200,7 @@
       "SYR"
     ],
     "area": 89342,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/jor.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/jor.svg"
   },
   {
     "name": {
@@ -7255,7 +7256,7 @@
     "landlocked": false,
     "borders": [],
     "area": 377930,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/jpn.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/jpn.svg"
   },
   {
     "name": {
@@ -7328,7 +7329,7 @@
       "UZB"
     ],
     "area": 2724900,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/kaz.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/kaz.svg"
   },
   {
     "name": {
@@ -7394,7 +7395,7 @@
       "UGA"
     ],
     "area": 580367,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/ken.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/ken.svg"
   },
   {
     "name": {
@@ -7461,7 +7462,7 @@
       "UZB"
     ],
     "area": 199951,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/kgz.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/kgz.svg"
   },
   {
     "name": {
@@ -7523,7 +7524,7 @@
       "VNM"
     ],
     "area": 181035,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/khm.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/khm.svg"
   },
   {
     "name": {
@@ -7587,7 +7588,7 @@
     "landlocked": false,
     "borders": [],
     "area": 811,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/kir.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/kir.svg"
   },
   {
     "name": {
@@ -7641,7 +7642,7 @@
     "landlocked": false,
     "borders": [],
     "area": 261,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/kna.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/kna.svg"
   },
   {
     "name": {
@@ -7701,7 +7702,7 @@
       "PRK"
     ],
     "area": 100210,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/kor.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/kor.svg"
   },
   {
     "name": {
@@ -7763,7 +7764,7 @@
       "SRB"
     ],
     "area": 10908,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/unk.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/unk.svg"
   },
   {
     "name": {
@@ -7821,7 +7822,7 @@
       "SAU"
     ],
     "area": 17818,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/kwt.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/kwt.svg"
   },
   {
     "name": {
@@ -7883,7 +7884,7 @@
       "VNM"
     ],
     "area": 236800,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/lao.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/lao.svg"
   },
   {
     "name": {
@@ -7946,7 +7947,7 @@
       "SYR"
     ],
     "area": 10452,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/lbn.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/lbn.svg"
   },
   {
     "name": {
@@ -8004,7 +8005,7 @@
       "SLE"
     ],
     "area": 111369,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/lbr.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/lbr.svg"
   },
   {
     "name": {
@@ -8066,7 +8067,7 @@
       "TUN"
     ],
     "area": 1759540,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/lby.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/lby.svg"
   },
   {
     "name": {
@@ -8119,7 +8120,7 @@
     "landlocked": false,
     "borders": [],
     "area": 616,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/lca.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/lca.svg"
   },
   {
     "name": {
@@ -8177,7 +8178,7 @@
       "CHE"
     ],
     "area": 160,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/lie.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/lie.svg"
   },
   {
     "name": {
@@ -8241,7 +8242,7 @@
       "IND"
     ],
     "area": 65610,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/lka.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/lka.svg"
   },
   {
     "name": {
@@ -8307,7 +8308,7 @@
       "ZAF"
     ],
     "area": 30355,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/lso.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/lso.svg"
   },
   {
     "name": {
@@ -8367,7 +8368,7 @@
       "RUS"
     ],
     "area": 65300,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/ltu.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/ltu.svg"
   },
   {
     "name": {
@@ -8438,7 +8439,7 @@
       "DEU"
     ],
     "area": 2586,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/lux.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/lux.svg"
   },
   {
     "name": {
@@ -8498,7 +8499,7 @@
       "RUS"
     ],
     "area": 64559,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/lva.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/lva.svg"
   },
   {
     "name": {
@@ -8563,7 +8564,7 @@
       "CHN"
     ],
     "area": 30,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/mac.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/mac.svg"
   },
   {
     "name": {
@@ -8622,7 +8623,7 @@
       "SXM"
     ],
     "area": 53,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/maf.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/maf.svg"
   },
   {
     "name": {
@@ -8687,7 +8688,7 @@
       "ESP"
     ],
     "area": 446550,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/mar.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/mar.svg"
   },
   {
     "name": {
@@ -8744,7 +8745,7 @@
       "FRA"
     ],
     "area": 2.02,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/mco.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/mco.svg"
   },
   {
     "name": {
@@ -8803,7 +8804,7 @@
       "UKR"
     ],
     "area": 33846,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/mda.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/mda.svg"
   },
   {
     "name": {
@@ -8864,7 +8865,7 @@
     "landlocked": false,
     "borders": [],
     "area": 587041,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/mdg.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/mdg.svg"
   },
   {
     "name": {
@@ -8920,7 +8921,7 @@
     "landlocked": false,
     "borders": [],
     "area": 300,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/mdv.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/mdv.svg"
   },
   {
     "name": {
@@ -8980,7 +8981,7 @@
       "USA"
     ],
     "area": 1964375,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/mex.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/mex.svg"
   },
   {
     "name": {
@@ -9040,7 +9041,7 @@
     "landlocked": false,
     "borders": [],
     "area": 181,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/mhl.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/mhl.svg"
   },
   {
     "name": {
@@ -9102,7 +9103,7 @@
       "SRB"
     ],
     "area": 25713,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/mkd.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/mkd.svg"
   },
   {
     "name": {
@@ -9165,7 +9166,7 @@
       "SEN"
     ],
     "area": 1240192,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/mli.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/mli.svg"
   },
   {
     "name": {
@@ -9225,7 +9226,7 @@
     "landlocked": false,
     "borders": [],
     "area": 316,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/mlt.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/mlt.svg"
   },
   {
     "name": {
@@ -9287,7 +9288,7 @@
       "THA"
     ],
     "area": 676578,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/mmr.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/mmr.svg"
   },
   {
     "name": {
@@ -9347,7 +9348,7 @@
       "SRB"
     ],
     "area": 13812,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/mne.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/mne.svg"
   },
   {
     "name": {
@@ -9403,7 +9404,7 @@
       "RUS"
     ],
     "area": 1564110,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/mng.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/mng.svg"
   },
   {
     "name": {
@@ -9468,7 +9469,7 @@
     "landlocked": false,
     "borders": [],
     "area": 464,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/mnp.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/mnp.svg"
   },
   {
     "name": {
@@ -9530,7 +9531,7 @@
       "ZWE"
     ],
     "area": 801590,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/moz.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/moz.svg"
   },
   {
     "name": {
@@ -9590,7 +9591,7 @@
       "ESH"
     ],
     "area": 1030700,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/mrt.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/mrt.svg"
   },
   {
     "name": {
@@ -9643,7 +9644,7 @@
     "landlocked": false,
     "borders": [],
     "area": 102,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/msr.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/msr.svg"
   },
   {
     "name": {
@@ -9696,7 +9697,7 @@
     "landlocked": false,
     "borders": [],
     "area": 1128,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/mtq.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/mtq.svg"
   },
   {
     "name": {
@@ -9761,7 +9762,7 @@
     "landlocked": false,
     "borders": [],
     "area": 2040,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/mus.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/mus.svg"
   },
   {
     "name": {
@@ -9824,7 +9825,7 @@
       "ZMB"
     ],
     "area": 118484,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/mwi.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/mwi.svg"
   },
   {
     "name": {
@@ -9886,7 +9887,7 @@
       "THA"
     ],
     "area": 330803,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/mys.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/mys.svg"
   },
   {
     "name": {
@@ -9941,7 +9942,7 @@
     "landlocked": false,
     "borders": [],
     "area": 374,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/myt.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/myt.svg"
   },
   {
     "name": {
@@ -10045,7 +10046,7 @@
       "ZMB"
     ],
     "area": 825615,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/nam.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/nam.svg"
   },
   {
     "name": {
@@ -10098,7 +10099,7 @@
     "landlocked": false,
     "borders": [],
     "area": 18575,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/ncl.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/ncl.svg"
   },
   {
     "name": {
@@ -10160,7 +10161,7 @@
       "NGA"
     ],
     "area": 1267000,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/ner.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/ner.svg"
   },
   {
     "name": {
@@ -10220,7 +10221,7 @@
     "landlocked": false,
     "borders": [],
     "area": 36,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/nfk.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/nfk.svg"
   },
   {
     "name": {
@@ -10281,7 +10282,7 @@
       "NER"
     ],
     "area": 923768,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/nga.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/nga.svg"
   },
   {
     "name": {
@@ -10339,7 +10340,7 @@
       "HND"
     ],
     "area": 130373,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/nic.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/nic.svg"
   },
   {
     "name": {
@@ -10397,7 +10398,7 @@
     "landlocked": false,
     "borders": [],
     "area": 260,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/niu.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/niu.svg"
   },
   {
     "name": {
@@ -10456,7 +10457,7 @@
       "DEU"
     ],
     "area": 41850,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/nld.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/nld.svg"
   },
   {
     "name": {
@@ -10528,7 +10529,7 @@
       "RUS"
     ],
     "area": 323802,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/nor.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/nor.svg"
   },
   {
     "name": {
@@ -10586,7 +10587,7 @@
       "IND"
     ],
     "area": 147181,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/npl.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/npl.svg"
   },
   {
     "name": {
@@ -10648,7 +10649,7 @@
     "landlocked": false,
     "borders": [],
     "area": 21,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/nru.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/nru.svg"
   },
   {
     "name": {
@@ -10712,7 +10713,7 @@
     "landlocked": false,
     "borders": [],
     "area": 270467,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/nzl.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/nzl.svg"
   },
   {
     "name": {
@@ -10771,7 +10772,7 @@
       "YEM"
     ],
     "area": 309500,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/omn.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/omn.svg"
   },
   {
     "name": {
@@ -10837,7 +10838,7 @@
       "IRN"
     ],
     "area": 881912,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/pak.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/pak.svg"
   },
   {
     "name": {
@@ -10899,7 +10900,7 @@
       "CRI"
     ],
     "area": 75417,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/pan.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/pan.svg"
   },
   {
     "name": {
@@ -10954,7 +10955,7 @@
     "landlocked": false,
     "borders": [],
     "area": 47,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/pcn.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/pcn.svg"
   },
   {
     "name": {
@@ -11025,7 +11026,7 @@
       "ECU"
     ],
     "area": 1285216,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/per.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/per.svg"
   },
   {
     "name": {
@@ -11085,7 +11086,7 @@
     "landlocked": false,
     "borders": [],
     "area": 342353,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/phl.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/phl.svg"
   },
   {
     "name": {
@@ -11145,7 +11146,7 @@
     "landlocked": false,
     "borders": [],
     "area": 459,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/plw.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/plw.svg"
   },
   {
     "name": {
@@ -11212,7 +11213,7 @@
       "IDN"
     ],
     "area": 462840,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/png.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/png.svg"
   },
   {
     "name": {
@@ -11275,7 +11276,7 @@
       "UKR"
     ],
     "area": 312679,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/pol.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/pol.svg"
   },
   {
     "name": {
@@ -11336,7 +11337,7 @@
     "landlocked": false,
     "borders": [],
     "area": 8870,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/pri.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/pri.svg"
   },
   {
     "name": {
@@ -11399,7 +11400,7 @@
       "RUS"
     ],
     "area": 120538,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/prk.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/prk.svg"
   },
   {
     "name": {
@@ -11457,7 +11458,7 @@
       "ESP"
     ],
     "area": 92090,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/prt.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/prt.svg"
   },
   {
     "name": {
@@ -11522,7 +11523,7 @@
       "BRA"
     ],
     "area": 406752,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/pry.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/pry.svg"
   },
   {
     "name": {
@@ -11591,7 +11592,7 @@
       "JOR"
     ],
     "area": 6220,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/pse.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/pse.svg"
   },
   {
     "name": {
@@ -11647,7 +11648,7 @@
     "landlocked": false,
     "borders": [],
     "area": 4167,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/pyf.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/pyf.svg"
   },
   {
     "name": {
@@ -11705,7 +11706,7 @@
       "SAU"
     ],
     "area": 11586,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/qat.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/qat.svg"
   },
   {
     "name": {
@@ -11759,7 +11760,7 @@
     "landlocked": false,
     "borders": [],
     "area": 2511,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/reu.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/reu.svg"
   },
   {
     "name": {
@@ -11821,7 +11822,7 @@
       "UKR"
     ],
     "area": 238391,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/rou.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/rou.svg"
   },
   {
     "name": {
@@ -11897,7 +11898,7 @@
       "UKR"
     ],
     "area": 17098242,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/rus.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/rus.svg"
   },
   {
     "name": {
@@ -11968,7 +11969,7 @@
       "UGA"
     ],
     "area": 26338,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/rwa.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/rwa.svg"
   },
   {
     "name": {
@@ -12033,7 +12034,7 @@
       "YEM"
     ],
     "area": 2149690,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/sau.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/sau.svg"
   },
   {
     "name": {
@@ -12101,7 +12102,7 @@
       "SSD"
     ],
     "area": 1886068,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/sdn.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/sdn.svg"
   },
   {
     "name": {
@@ -12162,7 +12163,7 @@
       "MRT"
     ],
     "area": 196722,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/sen.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/sen.svg"
   },
   {
     "name": {
@@ -12235,7 +12236,7 @@
     "landlocked": false,
     "borders": [],
     "area": 710,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/sgp.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/sgp.svg"
   },
   {
     "name": {
@@ -12289,7 +12290,7 @@
     "landlocked": false,
     "borders": [],
     "area": 3903,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/sgs.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/sgs.svg"
   },
   {
     "name": {
@@ -12343,7 +12344,7 @@
     "landlocked": false,
     "borders": [],
     "area": -1,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/sjm.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/sjm.svg"
   },
   {
     "name": {
@@ -12396,7 +12397,7 @@
     "landlocked": false,
     "borders": [],
     "area": 28896,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/slb.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/slb.svg"
   },
   {
     "name": {
@@ -12453,7 +12454,7 @@
       "LBR"
     ],
     "area": 71740,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/sle.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/sle.svg"
   },
   {
     "name": {
@@ -12511,7 +12512,7 @@
       "HND"
     ],
     "area": 21041,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/slv.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/slv.svg"
   },
   {
     "name": {
@@ -12568,7 +12569,7 @@
       "ITA"
     ],
     "area": 61,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/smr.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/smr.svg"
   },
   {
     "name": {
@@ -12634,7 +12635,7 @@
       "KEN"
     ],
     "area": 637657,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/som.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/som.svg"
   },
   {
     "name": {
@@ -12688,7 +12689,7 @@
     "landlocked": false,
     "borders": [],
     "area": 242,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/spm.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/spm.svg"
   },
   {
     "name": {
@@ -12755,7 +12756,7 @@
       "ROU"
     ],
     "area": 88361,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/srb.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/srb.svg"
   },
   {
     "name": {
@@ -12815,7 +12816,7 @@
       "UGA"
     ],
     "area": 619745,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/ssd.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/ssd.svg"
   },
   {
     "name": {
@@ -12871,7 +12872,7 @@
     "landlocked": false,
     "borders": [],
     "area": 964,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/stp.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/stp.svg"
   },
   {
     "name": {
@@ -12932,7 +12933,7 @@
       "GUY"
     ],
     "area": 163820,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/sur.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/sur.svg"
   },
   {
     "name": {
@@ -12993,7 +12994,7 @@
       "UKR"
     ],
     "area": 49037,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/svk.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/svk.svg"
   },
   {
     "name": {
@@ -13053,7 +13054,7 @@
       "HUN"
     ],
     "area": 20273,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/svn.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/svn.svg"
   },
   {
     "name": {
@@ -13111,7 +13112,7 @@
       "NOR"
     ],
     "area": 450295,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/swe.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/swe.svg"
   },
   {
     "name": {
@@ -13178,7 +13179,7 @@
       "ZAF"
     ],
     "area": 17364,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/swz.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/swz.svg"
   },
   {
     "name": {
@@ -13244,7 +13245,7 @@
       "MAF"
     ],
     "area": 34,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/sxm.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/sxm.svg"
   },
   {
     "name": {
@@ -13310,7 +13311,7 @@
     "landlocked": false,
     "borders": [],
     "area": 452,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/syc.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/syc.svg"
   },
   {
     "name": {
@@ -13372,7 +13373,7 @@
       "TUR"
     ],
     "area": 185180,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/syr.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/syr.svg"
   },
   {
     "name": {
@@ -13425,7 +13426,7 @@
     "landlocked": false,
     "borders": [],
     "area": 948,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/tca.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/tca.svg"
   },
   {
     "name": {
@@ -13493,7 +13494,7 @@
       "SDN"
     ],
     "area": 1284000,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/tcd.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/tcd.svg"
   },
   {
     "name": {
@@ -13553,7 +13554,7 @@
       "GHA"
     ],
     "area": 56785,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/tgo.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/tgo.svg"
   },
   {
     "name": {
@@ -13617,7 +13618,7 @@
       "MYS"
     ],
     "area": 513120,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/tha.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/tha.svg"
   },
   {
     "name": {
@@ -13684,7 +13685,7 @@
       "UZB"
     ],
     "area": 143100,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/tjk.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/tjk.svg"
   },
   {
     "name": {
@@ -13747,7 +13748,7 @@
     "landlocked": false,
     "borders": [],
     "area": 12,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/tkl.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/tkl.svg"
   },
   {
     "name": {
@@ -13810,7 +13811,7 @@
       "UZB"
     ],
     "area": 488100,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/tkm.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/tkm.svg"
   },
   {
     "name": {
@@ -13876,7 +13877,7 @@
       "IDN"
     ],
     "area": 14874,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/tls.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/tls.svg"
   },
   {
     "name": {
@@ -13934,7 +13935,7 @@
     "landlocked": false,
     "borders": [],
     "area": 747,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/ton.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/ton.svg"
   },
   {
     "name": {
@@ -13988,7 +13989,7 @@
     "landlocked": false,
     "borders": [],
     "area": 5130,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/tto.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/tto.svg"
   },
   {
     "name": {
@@ -14046,7 +14047,7 @@
       "LBY"
     ],
     "area": 163610,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/tun.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/tun.svg"
   },
   {
     "name": {
@@ -14111,7 +14112,7 @@
       "SYR"
     ],
     "area": 783562,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/tur.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/tur.svg"
   },
   {
     "name": {
@@ -14173,7 +14174,7 @@
     "landlocked": false,
     "borders": [],
     "area": 26,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/tuv.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/tuv.svg"
   },
   {
     "name": {
@@ -14233,7 +14234,7 @@
     "landlocked": false,
     "borders": [],
     "area": 36193,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/twn.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/twn.svg"
   },
   {
     "name": {
@@ -14303,7 +14304,7 @@
       "ZMB"
     ],
     "area": 945087,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/tza.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/tza.svg"
   },
   {
     "name": {
@@ -14369,7 +14370,7 @@
       "TZA"
     ],
     "area": 241550,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/uga.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/uga.svg"
   },
   {
     "name": {
@@ -14432,7 +14433,7 @@
       "SVK"
     ],
     "area": 603500,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/ukr.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/ukr.svg"
   },
   {
     "name": {
@@ -14485,7 +14486,7 @@
     "landlocked": false,
     "borders": [],
     "area": 34.2,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/umi.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/umi.svg"
   },
   {
     "name": {
@@ -14543,7 +14544,7 @@
       "BRA"
     ],
     "area": 181034,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/ury.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/ury.svg"
   },
   {
     "name": {
@@ -14917,7 +14918,7 @@
       "MEX"
     ],
     "area": 9372610,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/usa.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/usa.svg"
   },
   {
     "name": {
@@ -14984,7 +14985,7 @@
       "TKM"
     ],
     "area": 447400,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/uzb.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/uzb.svg"
   },
   {
     "name": {
@@ -15048,7 +15049,7 @@
       "ITA"
     ],
     "area": 0.44,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/vat.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/vat.svg"
   },
   {
     "name": {
@@ -15101,7 +15102,7 @@
     "landlocked": false,
     "borders": [],
     "area": 389,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/vct.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/vct.svg"
   },
   {
     "name": {
@@ -15161,7 +15162,7 @@
       "GUY"
     ],
     "area": 916445,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/ven.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/ven.svg"
   },
   {
     "name": {
@@ -15215,7 +15216,7 @@
     "landlocked": false,
     "borders": [],
     "area": 151,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/vgb.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/vgb.svg"
   },
   {
     "name": {
@@ -15269,7 +15270,7 @@
     "landlocked": false,
     "borders": [],
     "area": 347,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/vir.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/vir.svg"
   },
   {
     "name": {
@@ -15329,7 +15330,7 @@
       "LAO"
     ],
     "area": 331212,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/vnm.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/vnm.svg"
   },
   {
     "name": {
@@ -15395,7 +15396,7 @@
     "landlocked": false,
     "borders": [],
     "area": 12189,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/vut.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/vut.svg"
   },
   {
     "name": {
@@ -15450,7 +15451,7 @@
     "landlocked": false,
     "borders": [],
     "area": 142,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/wlf.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/wlf.svg"
   },
   {
     "name": {
@@ -15510,7 +15511,7 @@
     "landlocked": false,
     "borders": [],
     "area": 2842,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/wsm.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/wsm.svg"
   },
   {
     "name": {
@@ -15568,7 +15569,7 @@
       "SAU"
     ],
     "area": 527968,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/yem.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/yem.svg"
   },
   {
     "name": {
@@ -15683,7 +15684,7 @@
       "ZWE"
     ],
     "area": 1221037,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/zaf.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/zaf.svg"
   },
   {
     "name": {
@@ -15746,7 +15747,7 @@
       "ZWE"
     ],
     "area": 752612,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/zmb.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/zmb.svg"
   },
   {
     "name": {
@@ -15907,6 +15908,6 @@
       "ZMB"
     ],
     "area": 390757,
-    "flag": "https://cdn.rawgit.com/mledoze/countries/db61f75e/data/zwe.svg"
+    "flag": "https://raw.githubusercontent.com/mledoze/countries/db61f75e/data/zwe.svg"
   }
 ]
