@@ -1684,9 +1684,9 @@
       ".sh",
       ".ac"
     ],
-    "cca2": "SH",
+    "cca2": "SH-AC",
     "ccn3": "654",
-    "cca3": "SHN",
+    "cca3": "SHN-AC",
     "cioc": "",
     "independent": false,
     "status": "officially-assigned",
