@@ -1612,12 +1612,12 @@
   },
   {
     "name": {
-      "common": "Saint Helena",
-      "official": "Saint Helena",
+      "common": "Saint Helena, Ascension and Tristan da Cunha",
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
       "native": {
         "eng": {
-          "official": "Saint Helena",
-          "common": "Saint Helena"
+          "official": "Saint Helena, Ascension and Tristan da Cunha",
+          "common": "Saint Helena, Ascension and Tristan da Cunha"
         }
       }
     },
@@ -1644,65 +1644,7 @@
     "idd": {
       "root": "+2",
       "suffixes": [
-        "90"
-      ]
-    },
-    "capital": [
-      "Jamestown"
-    ],
-    "altSpellings": [
-      "Saint Helena",
-      "St. Helena, Ascension and Tristan da Cunha"
-    ],
-    "region": "Africa",
-    "subregion": "Western Africa",
-    "languages": {
-      "eng": "English"
-    },
-    "latlng": [
-      -15.95,
-      -5.72
-    ],
-    "demonym": "Saint Helenian",
-    "landlocked": false,
-    "borders": [],
-    "area": 394,
-    "flag": "https://cdn.githubusercontent.com/mledoze/countries/db61f75e/data/shn.svg"
-  },
-  {
-    "name": {
-      "common": "Ascension and Tristan da Cunha",
-      "official": "Ascension and Tristan da Cunha",
-      "native": {
-        "eng": {
-          "official": "Ascension and Tristan da Cunha",
-          "common": "Ascension and Tristan da Cunha"
-        }
-      }
-    },
-    "tld": [
-      ".sh",
-      ".ac"
-    ],
-    "cca2": "SH-AC",
-    "ccn3": "654",
-    "cca3": "SHN-AC",
-    "cioc": "",
-    "independent": false,
-    "status": "officially-assigned",
-    "currencies": {
-      "GBP": {
-        "name": "Pound sterling",
-        "symbol": "£"
-      },
-      "SHP": {
-        "name": "Saint Helena pound",
-        "symbol": "£"
-      }
-    },
-    "idd": {
-      "root": "+2",
-      "suffixes": [
+        "90",
         "47"
       ]
     },
@@ -6696,7 +6638,7 @@
       "common": "Iran",
       "official": "Islamic Republic of Iran",
       "native": {
-        "fas": {
+        "per": {
           "official": "جمهوری اسلامی ایران",
           "common": "ایران"
         }
@@ -6736,7 +6678,7 @@
     "region": "Asia",
     "subregion": "Southern Asia",
     "languages": {
-      "fas": "Persian"
+      "per": "Persian"
     },
     "latlng": [
       32,
